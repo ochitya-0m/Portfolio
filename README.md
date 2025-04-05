@@ -1,0 +1,1 @@
+A simple and responsive personal portfolio website built using HTML and CSS. This project showcases my skills, projects, and contact information in a clean and modern layout. Ideal for beginners looking to understand the structure of a basic portfolio site.
